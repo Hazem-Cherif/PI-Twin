@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run dev`
+
+Runs The frontend [http://localhost:3000] and the backend [http://localhost:5000] at the same time using cuncerrently
+
 ### `npm start`
 
 Runs the app in the development mode.\
